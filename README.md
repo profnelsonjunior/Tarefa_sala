@@ -1,15 +1,70 @@
-# Trabalho Prático - Semana 7
+Atividade: Contador Interativo com JavaScript e CSS
+Template para Google Classroom
+Disciplina:DIW
 
-Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a criação de variáveis, emprego de tipos básicos (string, number, boolean), operadores, além de fluxos de controle condicionais e estruturas de repetição (for e while).
+Programação Web / Desenvolvimento Front-End
 
-## Informações Gerais
+Tema da Aula:
 
-- Nome:
-- Matricula:
+Manipulação do DOM com JavaScript
 
-## Print do console do navegador
+Objetivo da Atividade
 
-<<  COLOQUE A IMAGEM AQUI >>
+Desenvolver um contador interativo utilizando:
+
+HTML
+CSS
+JavaScript
+
+O aluno deverá praticar:
+
+Eventos JavaScript
+Manipulação de elementos HTML
+Alteração dinâmica de conteúdo
+Estilização com CSS
+Enunciado da Atividade
+
+Crie uma página web contendo um contador interativo com as seguintes funcionalidades:
+
+Requisitos Obrigatórios
+
+✅ Botão para aumentar o número
+✅ Botão para diminuir o número
+✅ Botão para resetar o contador
+✅ Alterar a cor do número:
+
+Verde → positivo
+Vermelho → negativo
+Azul → zero
+
+✅ Interface estilizada com CSS
+
+Entrega
+O aluno deverá enviar:
+
+Arquivo .html
+Print da tela funcionando
+
+Critérios de Avaliação
+CritérioPontosEstrutura HTML2Estilização CSS2Funcionamento JavaScript4Organização do código1Criatividade1
+Total: 10 pontos
+
+Desafio Extra (Opcional)
+⭐ Adicionar:
+
+Limite máximo e mínimo
+Sons nos botões
+Modo escuro
+Animações
+Contador automático
+Habilidades Desenvolvidas
+Lógica de programação
+Manipulação do DOM
+Desenvolvimento Web
+Organização de código
+
+
+Interatividade com JavaScript
 
 
 
